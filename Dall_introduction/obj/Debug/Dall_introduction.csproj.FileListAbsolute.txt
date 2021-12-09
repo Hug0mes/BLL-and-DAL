@@ -1,0 +1,11 @@
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\bin\Debug\Dall_introduction.exe.config
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\bin\Debug\Dall_introduction.exe
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\bin\Debug\Dall_introduction.pdb
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.csproj.AssemblyReference.cache
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.Formm.resources
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.Properties.Resources.resources
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.csproj.GenerateResource.cache
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.csproj.CoreCompileInputs.cache
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.exe
+C:\Users\35192\source\repos\Dall_introduction\Dall_introduction\obj\Debug\Dall_introduction.pdb
